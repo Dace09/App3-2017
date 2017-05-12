@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns = "http://www.w3.org/ns/widgets"
+	xmlns:gap = "http://phonegap.com/ns/1.0"
+	id = "com.phonegap.App3 - Jasso Antuna"
+	version = "1.0.0">
+
+	<name>App 3: JQuery Mobile</name>
+
+	<description>Aplicacion hecha con JQuery mobile</description>
+
+	<author href="https://example.com" email="you@example.com">Damian Jasso</author>
+
+	<icon src="images/icono.png" gap:density="ldpi" gap:platform="android" />
+	<icon src="images/icono.png" gap:density="mdpi" gap:platform="android" />
+	<icon src="images/icono.png" gap:density="hdpi" gap:platform="android" />
+	<icon src="images/icono.png" gap:density="xhdpi" gap:platform="android" />
+</widget>
